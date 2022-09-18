@@ -7,26 +7,30 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects and looking for some internships...**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 Have a look on my portfolio **[My Portfolio](#)** -->
 
 - 📫 How to reach me **bhaskar.nv7@gmail.com**
 
-- ⚡ Fun fact **I hate Gramatical subjects**
+- ⚡ Fun fact **I hate Gramatical subjects but I know a lot of languages**
 
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <a href="https://isocpp.org/" target="_blank"> 
+    <img id="image" class="img-responsive" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" title="Csharp, original, logo Icon Free" alt="csharp, original, logo Icon" style="height: 46px;">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://nodejs.org/en/" target="_blank"><img id="image" data-size="512" class="img-responsive" src="https://cdn.icon-icons.com/icons2/3245/PNG/512/node_icon_198061.png" title="Node Icon Free" alt="node Icon" style="width: 48px;"></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img id="image" data-size="512" class="img-responsive" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" title="Mysql, official, logo Icon Free" alt="mysql, official, logo Icon" style="width: 59px;height:40px"></a>
 </p>
 <br/>
 
