@@ -20,9 +20,9 @@
 <p align="center"> 
     <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <a href="https://isocpp.org/" target="_blank"> 
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp target="_blank"> 
     <img id="image" class="img-responsive" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" title="Csharp, original, logo Icon Free" alt="csharp, original, logo Icon" style="height: 46px;">
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
