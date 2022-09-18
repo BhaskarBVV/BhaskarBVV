@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bhaskar.nv7@gmail.com**
 
-- ⚡ Fun fact **I hate Gramatical subjects but I know a lot of languages**
+- ⚡ Fun fact **I hate Grammatical subjects but I know a lot of languages**
 
 ## 🚀 Languages and Tools:
 
