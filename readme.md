@@ -51,9 +51,6 @@
 </p>
 <br/>
 <br/>
-
-<img alt="BhaskarBVV's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BhaskarBVV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-
 <br/>
 <br/>
 
@@ -63,6 +60,5 @@
 
 <a href = "https://www.linkedin.com/in/bhaskar95/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UCr9qzf33wroh8vvWibroZVQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://eduloop1.blogspot.com/"><img src="https://img.icons8.com/nolan/64/blogger.png/"/></a>
 
 </p>
