@@ -1,17 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhaskar</h1>
-<h3 align="center">Tech Enthusiast and passionate😎 coder ✍(◔◡◔)</h3>
+<h3 align="center">Tech Enthusiast and passionate coder ✍(◔◡◔)</h3>
 
 ## 🙋‍♂️ About Me
+- Currently working as an **Associate Software Engineer** at **WatchGuard Technologies India Pvt Ltd**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱  Love **Data Structures and Algorithms.**
 
 <!-- - 👨‍💻 Have a look on my portfolio **[My Portfolio](#)** -->
 
-- 📫 How to reach me **bhaskar.nv7@gmail.com**
+- 📫 Connect me via my email: **bhaskar.nv7@gmail.com**
 
 - ⚡ Fun fact **I hate Grammatical subjects but I know a lot of languages**
 
@@ -27,7 +26,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<!--     <a href="https://angular.dev/"><img src=""/></a> -->
     <a href="https://nodejs.org/en/" target="_blank"><img id="image" data-size="512" class="img-responsive" src="https://cdn.icon-icons.com/icons2/3245/PNG/512/node_icon_198061.png" title="Node Icon Free" alt="node Icon" style="width: 48px;"></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img id="image" data-size="512" class="img-responsive" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" title="Mysql, official, logo Icon Free" alt="mysql, official, logo Icon" style="width: 59px;height:40px"></a>
