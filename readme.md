@@ -58,6 +58,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/bhaskar95/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UCr9qzf33wroh8vvWibroZVQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<!-- <a href = "https://www.youtube.com/channel/UCr9qzf33wroh8vvWibroZVQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
